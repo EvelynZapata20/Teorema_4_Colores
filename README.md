@@ -1,4 +1,4 @@
-# Teorema_4_Colores
+# Teorema de los Cuatro Colores
 # Integrantes: 
 Evelyn Alejandra Zapata Tobón - John Jairo Montoya Moreno
 # Descripción:
